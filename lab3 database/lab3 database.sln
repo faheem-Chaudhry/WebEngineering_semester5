@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3 database", "lab3 database\lab3 database.csproj", "{FBD8D318-BF01-4C5A-9419-41EC6C060F4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "donor class", "donor class\donor class.csproj", "{3CA55048-786B-4485-AACD-8FE9920BF56B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonationRepository", "DonationRepository\DonationRepository.csproj", "{86E7E5B0-BE36-43E1-8007-FC8EA95E2469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonationManagementSystem", "DonationManagementSystem\DonationManagementSystem.csproj", "{6AF0FE5E-67A1-4FB9-A709-55019D0B1FDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "donationInformation", "donationInformation\donationInformation.csproj", "{9B776C2E-DA60-432C-B54A-1D6A9611F872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonationManagementSystemAdminLogin", "DonationManagementSystemAdminLogin\DonationManagementSystemAdminLogin.csproj", "{014227B8-031E-41B6-89C8-161D9FA06739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBD8D318-BF01-4C5A-9419-41EC6C060F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD8D318-BF01-4C5A-9419-41EC6C060F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD8D318-BF01-4C5A-9419-41EC6C060F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD8D318-BF01-4C5A-9419-41EC6C060F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA55048-786B-4485-AACD-8FE9920BF56B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA55048-786B-4485-AACD-8FE9920BF56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA55048-786B-4485-AACD-8FE9920BF56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA55048-786B-4485-AACD-8FE9920BF56B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E7E5B0-BE36-43E1-8007-FC8EA95E2469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E7E5B0-BE36-43E1-8007-FC8EA95E2469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E7E5B0-BE36-43E1-8007-FC8EA95E2469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E7E5B0-BE36-43E1-8007-FC8EA95E2469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF0FE5E-67A1-4FB9-A709-55019D0B1FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF0FE5E-67A1-4FB9-A709-55019D0B1FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF0FE5E-67A1-4FB9-A709-55019D0B1FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF0FE5E-67A1-4FB9-A709-55019D0B1FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B776C2E-DA60-432C-B54A-1D6A9611F872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B776C2E-DA60-432C-B54A-1D6A9611F872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B776C2E-DA60-432C-B54A-1D6A9611F872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B776C2E-DA60-432C-B54A-1D6A9611F872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{014227B8-031E-41B6-89C8-161D9FA06739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014227B8-031E-41B6-89C8-161D9FA06739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014227B8-031E-41B6-89C8-161D9FA06739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014227B8-031E-41B6-89C8-161D9FA06739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61072069-EB35-45DE-8D09-558A2B8B1DE5}
+	EndGlobalSection
+EndGlobal

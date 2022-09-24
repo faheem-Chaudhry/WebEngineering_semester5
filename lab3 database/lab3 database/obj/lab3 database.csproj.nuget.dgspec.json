@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\lab3 database\\lab3 database.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\DonationManagementSystemAdminLogin\\DonationManagementSystemAdminLogin.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\DonationManagementSystemAdminLogin\\DonationManagementSystemAdminLogin.csproj",
+        "projectName": "DonationManagementSystemAdminLogin",
+        "projectPath": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\DonationManagementSystemAdminLogin\\DonationManagementSystemAdminLogin.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\DonationManagementSystem\\DonationManagementSystem.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\DonationManagementSystem\\DonationManagementSystem.csproj",
+        "projectName": "DonationManagementSystem",
+        "projectPath": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\DonationManagementSystem\\DonationManagementSystem.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\DonationRepository\\DonationRepository.csproj": {
+                "projectPath": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\DonationRepository\\DonationRepository.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\DonationRepository\\DonationRepository.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\DonationRepository\\DonationRepository.csproj",
+        "projectName": "DonationRepository",
+        "projectPath": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\DonationRepository\\DonationRepository.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\donor class\\donor class.csproj": {
+                "projectPath": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\donor class\\donor class.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\donor class\\donor class.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\donor class\\donor class.csproj",
+        "projectName": "donor class",
+        "projectPath": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\donor class\\donor class.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\lab3 database\\lab3 database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\lab3 database\\lab3 database.csproj",
+        "projectName": "lab3 database",
+        "projectPath": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\lab3 database\\lab3 database.csproj",
+        "packagesPath": "C:\\Users\\Ch FAHEEM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\lab3 database\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ch FAHEEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\DonationManagementSystemAdminLogin\\DonationManagementSystemAdminLogin.csproj": {
+                "projectPath": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\DonationManagementSystemAdminLogin\\DonationManagementSystemAdminLogin.csproj"
+              },
+              "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\DonationManagementSystem\\DonationManagementSystem.csproj": {
+                "projectPath": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\DonationManagementSystem\\DonationManagementSystem.csproj"
+              },
+              "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\DonationRepository\\DonationRepository.csproj": {
+                "projectPath": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab3 database\\DonationRepository\\DonationRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

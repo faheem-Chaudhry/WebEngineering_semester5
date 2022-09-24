@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\web assign2 database CMS\\web assign2 database CMS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\classAdmin\\classAdmin.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\classAdmin\\classAdmin.csproj",
+        "projectName": "classAdmin",
+        "projectPath": "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\classAdmin\\classAdmin.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassLibrary1\\ClassLibrary1.csproj": {
+                "projectPath": "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassLibrary1\\ClassLibrary1.csproj"
+              },
+              "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassLibrary2\\ClassLibrary2.csproj": {
+                "projectPath": "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassLibrary2\\ClassLibrary2.csproj"
+              },
+              "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassTeacher\\ClassTeacher.csproj": {
+                "projectPath": "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassTeacher\\ClassTeacher.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassLibrary1\\ClassLibrary1.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectName": "ClassLibrary1",
+        "projectPath": "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassLibrary1\\ClassLibrary1.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassLibrary2\\ClassLibrary2.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassLibrary2\\ClassLibrary2.csproj",
+        "projectName": "ClassLibrary2",
+        "projectPath": "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassLibrary2\\ClassLibrary2.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassTeacher\\ClassTeacher.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassTeacher\\ClassTeacher.csproj",
+        "projectName": "ClassTeacher",
+        "projectPath": "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassTeacher\\ClassTeacher.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\web assign2 database CMS\\web assign2 database CMS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\web assign2 database CMS\\web assign2 database CMS.csproj",
+        "projectName": "web assign2 database CMS",
+        "projectPath": "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\web assign2 database CMS\\web assign2 database CMS.csproj",
+        "packagesPath": "C:\\Users\\Ch Faheem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\web assign2 database CMS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ch Faheem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\classAdmin\\classAdmin.csproj": {
+                "projectPath": "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\classAdmin\\classAdmin.csproj"
+              },
+              "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassLibrary1\\ClassLibrary1.csproj": {
+                "projectPath": "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassLibrary1\\ClassLibrary1.csproj"
+              },
+              "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassLibrary2\\ClassLibrary2.csproj": {
+                "projectPath": "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassLibrary2\\ClassLibrary2.csproj"
+              },
+              "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassTeacher\\ClassTeacher.csproj": {
+                "projectPath": "C:\\Users\\Ch Faheem\\source\\repos previous\\repos\\web assign2 database CMS\\ClassTeacher\\ClassTeacher.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

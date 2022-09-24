@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fbd8d318-bf01-4c5a-9419-41ec6c060f4b": {
+      "ProjectGuid": "fbd8d318-bf01-4c5a-9419-41ec6c060f4b",
+      "DisplayName": "lab3 database",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "3ca55048-786b-4485-aacd-8fe9920bf56b": {
+      "ProjectGuid": "3ca55048-786b-4485-aacd-8fe9920bf56b",
+      "DisplayName": "donor class",
+      "ColorIndex": 1
+    },
+    "86e7e5b0-be36-43e1-8007-fc8ea95e2469": {
+      "ProjectGuid": "86e7e5b0-be36-43e1-8007-fc8ea95e2469",
+      "DisplayName": "DonationRepository",
+      "ColorIndex": 2
+    },
+    "6af0fe5e-67a1-4fb9-a709-55019d0b1fdd": {
+      "ProjectGuid": "6af0fe5e-67a1-4fb9-a709-55019d0b1fdd",
+      "DisplayName": "DonationManagementSystem",
+      "ColorIndex": 3
+    },
+    "9b776c2e-da60-432c-b54a-1d6a9611f872": {
+      "ProjectGuid": "9b776c2e-da60-432c-b54a-1d6a9611f872",
+      "DisplayName": "donationInformation",
+      "ColorIndex": 4
+    },
+    "014227b8-031e-41b6-89c8-161d9fa06739": {
+      "ProjectGuid": "014227b8-031e-41b6-89c8-161d9fa06739",
+      "DisplayName": "DonationManagementSystemAdminLogin",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

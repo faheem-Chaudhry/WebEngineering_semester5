@@ -1,0 +1,2 @@
+{"Age":12,"Name":"Ali"}
+ddress":{"City":"Lahore","Country":"Pakistan","ZIP":54000}}

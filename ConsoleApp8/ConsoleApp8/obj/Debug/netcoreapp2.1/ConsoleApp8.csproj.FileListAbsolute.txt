@@ -1,0 +1,4 @@
+C:\Users\Ch FAHEEM\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\ConsoleApp8.csprojAssemblyReference.cache
+C:\Users\Ch FAHEEM\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\Ch FAHEEM\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\Ch FAHEEM\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\ConsoleApp8.AssemblyInfo.cs

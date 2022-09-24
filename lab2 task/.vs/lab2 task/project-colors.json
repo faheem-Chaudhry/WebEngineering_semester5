@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b7aafc32-d0fa-4ace-afc4-e4f1024ef6e0": {
+      "ProjectGuid": "b7aafc32-d0fa-4ace-afc4-e4f1024ef6e0",
+      "DisplayName": "lab2 task",
+      "ColorIndex": 0
+    },
+    "a8cd7876-f692-4811-988d-27e637c4dc47": {
+      "ProjectGuid": "a8cd7876-f692-4811-988d-27e637c4dc47",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 1
+    },
+    "8e595c13-fa32-468f-b5e1-6f537fa813d7": {
+      "ProjectGuid": "8e595c13-fa32-468f-b5e1-6f537fa813d7",
+      "DisplayName": "ClassLibrary2",
+      "ColorIndex": 2
+    },
+    "a53e0cb8-6431-4525-a681-5ad099dfaf74": {
+      "ProjectGuid": "a53e0cb8-6431-4525-a681-5ad099dfaf74",
+      "DisplayName": "ClassLibrary3",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

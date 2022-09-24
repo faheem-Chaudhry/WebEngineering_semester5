@@ -1,0 +1,141 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v6.0": {
+      "ClassLibrary1/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/ClassLibrary1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary1.dll": {}
+        }
+      },
+      "ClassLibrary3/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v6.0",
+        "dependencies": {
+          "ClassLibrary1": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ClassLibrary3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary3.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v6.0/win7-x86": {
+      "ClassLibrary1/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/ClassLibrary1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary1.dll": {}
+        }
+      },
+      "ClassLibrary3/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v6.0",
+        "dependencies": {
+          "ClassLibrary1": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ClassLibrary3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibrary1/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary1/ClassLibrary1.csproj",
+      "msbuildProject": "../ClassLibrary1/ClassLibrary1.csproj"
+    },
+    "ClassLibrary3/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary3/ClassLibrary3.csproj",
+      "msbuildProject": "../ClassLibrary3/ClassLibrary3.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v6.0": [
+      "C:\\Users\\Ch FAHEEM\\source\\repos\\lab2 task\\ClassLibrary2\\ClassLibrary2.csproj",
+      "ClassLibrary1 >= 1.0.0",
+      "ClassLibrary3 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ch FAHEEM\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab2 task\\lab2 task\\lab2 task.csproj",
+      "projectName": "lab2 task",
+      "projectPath": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab2 task\\lab2 task\\lab2 task.csproj",
+      "packagesPath": "C:\\Users\\Ch FAHEEM\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab2 task\\lab2 task\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Ch FAHEEM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net60"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net60": {
+          "projectReferences": {
+            "C:\\Users\\Ch FAHEEM\\source\\repos\\lab2 task\\ClassLibrary1\\ClassLibrary1.csproj": {
+              "projectPath": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab2 task\\ClassLibrary1\\ClassLibrary1.csproj"
+            },
+            "C:\\Users\\Ch FAHEEM\\source\\repos\\lab2 task\\ClassLibrary2\\ClassLibrary2.csproj": {
+              "projectPath": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab2 task\\ClassLibrary2\\ClassLibrary2.csproj"
+            },
+            "C:\\Users\\Ch FAHEEM\\source\\repos\\lab2 task\\ClassLibrary3\\ClassLibrary3.csproj": {
+              "projectPath": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab2 task\\ClassLibrary3\\ClassLibrary3.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net60": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Ch FAHEEM\\source\\repos\\lab2 task\\ClassLibrary2\\ClassLibrary2.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Ch FAHEEM\\source\\repos\\lab2 task\\ClassLibrary2\\ClassLibrary2.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0",
+        ".NETFramework,Version=v6.0/win7-x86"
+      ]
+    }
+  ]
+}

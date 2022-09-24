@@ -1,0 +1,2 @@
+C:\Users\Ch FAHEEM\source\repos\ConsoleApp8\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\Ch FAHEEM\source\repos\ConsoleApp8\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
